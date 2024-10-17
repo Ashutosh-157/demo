@@ -1,4 +1,4 @@
 # demo
 1st github repo
 <br/>
-Aurhor- Ashutosh
+Aurhor- Ashutosh Nayak
